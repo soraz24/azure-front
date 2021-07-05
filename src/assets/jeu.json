@@ -1,0 +1,20 @@
+{
+	"data": [
+        {
+            "id": "oeihfzeoi",
+            "title": "Collectibles",
+            "description": "Les infos de mon premier objet",
+            "imageUrl": "https://media.lesechos.com/api/v1/images/view/5c12ae958fe56f708f174508/1280x720/060340272200-web-tete.jpg",
+            "price": 4900,
+            "userId": "qsomihvqios"
+          },
+          {
+            "id": "oeihfzeomoihi",
+            "title": "Tourelle",
+            "description": "Les infos de mon deuxième objet",
+            "imageUrl": "https://assets.letemps.ch/sites/default/files/styles/share/public/media/2018/06/05/file70c2ci2v1nb113oovf0s.jpg.jpeg?itok=y31w8O31",
+            "price": 2900,
+            "userId": "qsomihvqios"
+          }
+    ]
+}
